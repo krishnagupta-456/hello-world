@@ -1,2 +1,3 @@
 # hello-world
-just author repository
+hello people!
+Myself Krishna Gupta.Learning programming and working on Projects.
